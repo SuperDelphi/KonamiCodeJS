@@ -1,7 +1,3 @@
-/*
- * Copyright (c) 2020. Simon Breil
- */
-
 class KonamiCodeListener
 {
     constructor()
